@@ -1,0 +1,26 @@
+# Lux Cash
+
+> Stablecoin and fiat on/off-ramp for Lux Network.
+
+## About
+Lux Cash provides stablecoin services and fiat on/off-ramp capabilities for Lux Network. It enables users to convert between fiat currencies and crypto, manage stablecoins, and facilitate payments with price-stable digital assets. The platform bridges traditional finance and the Lux blockchain ecosystem.
+
+## Key Features
+- Fiat on-ramp: buy crypto with bank transfer, debit card, or wire
+- Fiat off-ramp: convert crypto to fiat and withdraw
+- Stablecoin management (USDC, USDT, DAI on Lux)
+- Instant settlement on Lux Network
+- Low conversion fees
+- Multi-currency support (USD, EUR, GBP, and more)
+- KYC/AML compliance for fiat operations
+- API for programmatic on/off-ramp integration
+- Merchant payment processing with fiat settlement
+
+## Links
+- [Website](https://lux.cash)
+- [Lux Network](https://lux.network)
+- [Documentation](https://docs.lux.network/cash)
+- [API Docs](https://docs.lux.network/cash/api)
+
+## Contact
+- Support: support@lux.network
